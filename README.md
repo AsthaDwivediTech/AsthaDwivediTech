@@ -4,13 +4,22 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=5CD8F7&left=true&vleft=true&lines=Tech+Enthusiast+%7C+Tech+Visionary;Pro+%26+Innovative+Solutions;Web+Developer+Innovator)](https://git.io/typing-svg)
 
+
+## 🌟 About Me
+
+**Astha Dwivedi | Technology Enthusiast | Innovator 💻💡
+Hi, I'm Astha Dwivedi, a technology enthusiast driven by innovation and excellence. 🚀💻**
+
+-🎓 **BCA from United University, Prayagraj** 
+
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asthadwiveditech&label=Profile%20views&color=0e75b6&style=flat" alt="asthadwiveditech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asthadwiveditech" alt="asthadwiveditech" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/-"><img src="https://github-profile-trophy.vercel.app/?username=asthadwiveditech" alt="asthadwiveditech" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/astha75036" target="blank"><img src="https://img.shields.io/twitter/follow/astha75036?logo=twitter&style=for-the-badge" alt="astha75036" /></a> </p>
 

@@ -1,3 +1,4 @@
+![logo](https://github.com/AsthaDwivediTech/AsthaDwivediTech/blob/main/1726146596638.jpeg)
 <h1 align="center">Hi 👋🤗, I'm Astha Dwivedi</h1>
 <h3 align="center">Passionate about Coding and Innovation.</h3>
 

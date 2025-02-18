@@ -50,3 +50,12 @@ Hi, I'm Astha Dwivedi, a technology enthusiast driven by innovation and excellen
 ## 🌟 Let's Collaborate!
 
 If you're interested in collaborating on projects, discussing tech, or just want to connect, feel free to reach out!
+
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astha-dwivedi-815a042a1?trk=contact-info)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/astha75036)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asthadwivedi270@gmail.com)
+
+</div>

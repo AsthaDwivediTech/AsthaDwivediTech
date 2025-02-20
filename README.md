@@ -14,7 +14,7 @@ Hi, I'm Astha Dwivedi, a technology enthusiast driven by innovation and excellen
 
 
 
-<img align="left" alt="coding"  height="260" width="440" src="Quote.jpg">
+<img align="left" alt="coding"  height="260" width="400" src="Quote.jpg">
 <img align="right" alt="coding" width="400" src="coding-girl.gif">
 
 

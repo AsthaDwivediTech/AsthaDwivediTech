@@ -12,7 +12,7 @@ Hi, I'm Astha Dwivedi, a technology enthusiast driven by innovation and excellen
 
 -🎓 **BCA from United University, Prayagraj** 
 
-
+<img align="right" alt="coding" width="400" src="IMG_20250220_120927.jpg">
 
 <img align="right" alt="coding" width="400" src="coding-girl.gif">
 

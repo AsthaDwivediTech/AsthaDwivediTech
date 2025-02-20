@@ -15,7 +15,7 @@ Hi, I'm Astha Dwivedi, a technology enthusiast driven by innovation and excellen
 
 
 <div style="display: flex; justify-content: space-between;">
-<img height="260" width="400" src="Quote.jpg">
+<img height="260" width="400" src="Quote.jpg" style="margin-right: 20px;">
 <img alt="coding" width="400" src="coding-girl.gif">
 </div>
 

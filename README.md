@@ -12,11 +12,10 @@ Hi, I'm Astha Dwivedi, a technology enthusiast driven by innovation and excellen
 
 -🎓 **BCA from United University, Prayagraj** 
 
-<img align="right" alt="coding" width="400" src="IMG_20250220_120927.jpg">
 
 <img align="right" alt="coding" width="400" src="coding-girl.gif">
 
-
+<img align="left" alt="coding"  height="260" width="420" src="Quote.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asthadwiveditech&label=Profile%20views&color=0e75b6&style=flat" alt="asthadwiveditech" /> </p>
 
